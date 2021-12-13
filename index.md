@@ -1,8 +1,10 @@
-## 莘县同城网
-You can use the [editor on GitHub](https://github.com/haopdy/lcshenxian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 莘县同城
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#欢迎来到莘县微同城信息网！
 
+莘县微同城,微同城便民信息网,莘县分类信息,莘县百姓网,莘县信息网,莘县信息港
+
+莘县微同城分类信息网，为你提供房产、招聘、黄页、团购、交友、二手、宠物、车辆、周边游等海量的莘县分类信息，充分满足您免费查看/发布信息的需求。微同城信息网全国分站限量招募中。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
